@@ -63,6 +63,7 @@
     font-size: 30px;
 }
 
+
 /* Using slideIn animation style to heading and paragraph under profile img */
 .content h1,
 .content p {
@@ -81,6 +82,7 @@
     animation-delay: 2.5s;
 }
 
+
 @keyframes spin {
     from {transform: rotateY(0deg);}
     to { transform: rotateY(712deg); }
@@ -92,3 +94,4 @@
         transform: translateY(0);
     }
 }
+
