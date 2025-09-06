@@ -74,11 +74,11 @@
 
 /* Delay to slide after image spin */
 .content h1 {
-    animation-delay: 2.2s;
+    animation-delay: 2.1s;
 }
 
 .content p {
-    animation-delay: 2.6s;
+    animation-delay: 2.5s;
 }
 
 @keyframes spin {
