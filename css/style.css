@@ -73,6 +73,8 @@
 
 }
 
+/* Content Section */
+
 .content {
     width: 100%;
     position: absolute;
@@ -94,12 +96,14 @@
     font-size: 30px;
 }
 
+/* Using animation to slideIn heading and paragraph under profile img */
 .content h1,
 .content p {
     opacity: 0;
     transform: translateY(50px);
     animation: slideIn 1s ease forwards;
 }
+
 
 /* Delay to slide after image spin */
 .content h1 {
