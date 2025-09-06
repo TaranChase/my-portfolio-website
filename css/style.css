@@ -15,26 +15,6 @@
     background-size: cover;
 }
 
-/*.navbar {
-    width: 80%;
-    margin: auto;
-    padding: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-}*/
-
-/*.navbar, ul, li {
-    color: #ffff;
-    list-style: none;
-    display: inline-block;
-    position: relative;
-    justify-content: space-between;
-
-}*/
-
-
 .profile {
     width: 250px;
     height: 250px;
