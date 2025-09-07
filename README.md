@@ -27,7 +27,7 @@ The project consists of the following files:
 
 3. Contact Page
 - GitHub and E-mail buttons with functional links to connect with me.
--Buttons styled using CSS.
+- Buttons styled using CSS.
 
 4. Navigation 
 - Home, About & Contact PAge are interlinked for seamless navigation.
@@ -35,6 +35,6 @@ The project consists of the following files:
 5. Technologies USed
 - HTML5 - For structured content and semantic layout.
 - CSS3 - Styling, animation, hover effect and glow effects.
--JavaScript - Interacrive hover effect on navigation links in the navbar.
+- JavaScript - Interacrive hover effect on navigation links in the navbar.
 
 
