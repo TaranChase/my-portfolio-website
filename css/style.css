@@ -4,7 +4,7 @@
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
-/*Home */
+/*Home Page*/
 .banner {
     width: 100%;
     height: 100dvh;
@@ -16,7 +16,7 @@
     background-size: cover;
 }
 
-/* Home navbar */
+/* Home Page navbar */
 .navbar {
     width: 100%;
     padding: 45px;
@@ -68,7 +68,7 @@
 
 }
 
-/* Home Content Section */
+/* Home Page Content Section */
 .content {
     width: 100%;
     position: absolute;
@@ -111,7 +111,7 @@
 }
 
 
-/* Home Social Links */
+/* Home Page Social Link Buttons */
 .social-links {
     margin: 40px auto;
     text-align: center;
@@ -144,7 +144,6 @@
         transform: translateY(0);
     }
 }
-
 
 
 /* About Me Page */
@@ -214,13 +213,13 @@
     font-size: 20px;
 }
 
-
-
 /* Hover effect on content box */
 .aboutme-box:hover {
     transform: scale(1.05);
     transition: all 0.3s ease;
 }
+
+
 
 
 /* Contact Page */
@@ -236,7 +235,6 @@
 }
 
 
-/* contact navbar */
 .contact-navbar {
     width: 100%;
     padding: 45px;
@@ -264,7 +262,7 @@
     
 }
 
-/* contact content */
+/* content */
 .contact-content {
     width: 100%;
     position: absolute;
